@@ -1,4 +1,5 @@
-[
+{
+	"Books": [
 {
     "id": 1,
     "title": "Opening Spaces: An Anthology of Contemporary African Women's Writing",
@@ -44,3 +45,4 @@
     "editorial_reviews": ""
   }
 ]
+}
