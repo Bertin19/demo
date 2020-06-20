@@ -1,4 +1,5 @@
-[
+{
+	"Books":[
   {
     "id": 1,
     "title": "Opening Spaces: An Anthology of Contemporary African Women's Writing",
@@ -520,3 +521,4 @@
     "editorial_reviews": "<article>\n    <h4>Library Journal</h4>This rich resource for scholars and general readers alike is the product of a decade of research by the Women Writing Africa Project. The project, funded by the Ford and Rockefeller foundations, seeks to bring African women's literary voices to the public through four volumes of texts arranged by region. The first volume in this distinctive series presents 120 southern African texts that are rich, evocative, and shaped by endless complexities. The settler colonies, such as Namibia, South Africa, and Zimbabwe, offer the largest body of research materials to be mined. Botswana's lack of colonialism meant that literacy came at a later date than in other countries, so texts are available only from the mid-1920s. Lesotho has older texts, however, owing to the presence of a Christian mission. Spanning two centuries (the 19th and the 20th) and featuring such writers as Tsitsi Dangarembga, Nadine Gordimer, Lauretta Ngcobo, Doris Lessing, and Winnie Mandela, the anthology includes texts that range from songs, poems, fiction, praise poems, and folktales to letters, journals, historical documents, journalism pieces, and oral testimonies. The volume's editors, all South African scholars, have also included a journal by a Boer woman written during the Anglo-Boer War, a testimony before the Truth and Reconciliation Commission, and songs of female initiation into adulthood. These selections, most of which have never before been assembled or published, often call into question such important matters as borders, language, vocabulary, translation, and colonialism. The lengthy introduction adequately explicates the historical as well as textual meaning, and each text's headnote provides context and useful details about the date of its origin, location, and language. Essential for all academic libraries and highly recommended for larger public libraries.-Neal Wyatt, Chesterfield Cty. P.L., VA Copyright 2003 Reed Business Information.\n\n</article>"
   }
 ]
+}
